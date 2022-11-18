@@ -38,7 +38,7 @@ function includeHTML() {
 	 */
 
 	// In NavBar section add logo image
-	document.logo.src = './images/logoo.png';
+	document.logo.src = './images/logo.jpg';
 
 	// In menu section, the first section below navbar
 	document.querySelector('#company-title').innerHTML = 'BNGRWANDA';
@@ -70,10 +70,10 @@ function includeHTML() {
 	// right section in about us
 	document.querySelector(
 		'#visions'
-	).innerHTML = `To be the most reliable IT services provider and enhance [what your product or service does].`;
+	).innerHTML = `To be the most reliable IT services provider and to be leading in IT Computer maintenance.`;
 
 	// In team section
-	document.firstimg.src = './images/avatar.jpg';
+	document.firstimg.src = './images/Mbaraga.jpg';
 	document.querySelector('#first-name').innerHTML = 'NISHIMWE MBARAGA Emmanuel ';
 	document.querySelector('#first-position').innerHTML = 'Co founder & CEO';
 
@@ -84,8 +84,8 @@ function includeHTML() {
 	// document.thirdimg.src = './images/avatar.jpg';
 	// document.querySelector('#third-name').innerHTML = 'Uwinama Marceline';
 	// document.querySelector('#third-position').innerHTML = 'Business Analyst';
-
-	document.fouthimg.src = './images/avatar.jpg';
+ 
+	document.fouthimg.src = './images/alice.jpg';
 	document.querySelector('#fouth-name').innerHTML = 'IHIRWE Alice';
 	document.querySelector('#fouth-position').innerHTML = 'Sales Manager';
 
@@ -102,7 +102,7 @@ function includeHTML() {
 	document.querySelector('#facebook').href = 'http://www.facebook.com/BNGRwanda';
 	document.querySelector('#twitter').href = 'http://www.twitter.com/company_bng';
 	document.querySelector('#instagram').href = 'http://www.instagram.com/bngrwanda';
-	document.querySelector('#whatsapp').href = 'https://wa.me/+250788384757';
+	document.querySelector('#whatsapp').href = 'https://wa.me/+250788987859';
 	document.querySelector('#youtube').href = 'http://www.youtube.com/channel/UC3-BYp4EpVpYdwAhAmuvvgw';
 	// document.querySelector('#linkedin').href = 'http://www.linkedin.com';
 
