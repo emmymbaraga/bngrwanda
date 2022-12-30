@@ -48,7 +48,7 @@ function includeHTML() {
 	// In who we are section
 	document.querySelector(
 		'#status'
-	).innerHTML = `<p>We are an IT multiservises company located in Kabuga Near BK KABUGA BRANCH whatstpp:0788987859
+	).innerHTML = `<p>We are an IT multiservice company located in Kabuga Near BK KABUGA BRANCH whatstpp:0788987859
                        email:info@bng.rw,Website: www.bng.rw.</p>
 					   <p>BNGRWANDA was founded in 2022 but our CEO has experience and have accomplished so much over the years, to create a word where technology has always been our goal.
 					   Our Founder and CEO Nishimwe Mbaraga Emmanuel was inspired to start this company by helping business growing their online presence and increase their customers.
