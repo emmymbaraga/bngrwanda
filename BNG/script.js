@@ -65,7 +65,7 @@ function includeHTML() {
 	document.aboutimg.src = './images/motherboard.jpg';
 	document.querySelector(
 		'#img-caption'
-	).innerHTML = `we fix it for you!`;
+	).innerHTML = `Building the Future with Tech!`;
 
 	// right section in about us
 	document.querySelector(
